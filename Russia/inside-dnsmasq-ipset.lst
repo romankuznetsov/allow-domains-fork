@@ -107,6 +107,7 @@ ipset=/depositphotos.com/vpn_domains
 ipset=/deviantart.com/vpn_domains
 ipset=/devops.com/vpn_domains
 ipset=/digitalocean.com/vpn_domains
+ipset=/discordapp.io/vpn_domains
 ipset=/discours.io/vpn_domains
 ipset=/disctech.com/vpn_domains
 ipset=/dobrochan.net/vpn_domains

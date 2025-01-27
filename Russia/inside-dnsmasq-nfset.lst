@@ -25,6 +25,7 @@ nftset=/amazonaws.com/4#inet#fw4#vpn_domains
 nftset=/amd.com/4#inet#fw4#vpn_domains
 nftset=/amdm.ru/4#inet#fw4#vpn_domains
 nftset=/amnezia.org/4#inet#fw4#vpn_domains
+nftset=/amplitude.com/4#inet#fw4#vpn_domains
 nftset=/amx.com/4#inet#fw4#vpn_domains
 nftset=/analog.com/4#inet#fw4#vpn_domains
 nftset=/anidub.com/4#inet#fw4#vpn_domains
